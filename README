@@ -1,5 +1,7 @@
-*** CPU miner by 1GH pool ***
-***  http://xcn.1gh.com/  ***
+*** CUDA miner for spacebux-pool ***
+***  http://spacebux.io/  ***
+
+***  Example: ./minerd -o stratum+tcp://xcn.spacebux.io:3333 -u CVRUKBJQSvSRMud2WBxhraf6ra7R3tU41Q -p x -t 1
 
 This is a multi-threaded GPU miner for Cryptonite (XCN),
 fork of pooler's cpuminer.
